@@ -50,7 +50,7 @@ function App() {
         <ParallaxLayer
           sticky={{start:0.9, end:2.5}}
         >
-          <img src='cat'/>
+          <img src={cat}/>
         </ParallaxLayer>
 
       </Parallax>
